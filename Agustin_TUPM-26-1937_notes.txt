@@ -1,0 +1,5 @@
+Student: Agustin
+Student ID: TUPM-26-1937
+Seed digit: 7
+ID sum: 28
+Verification value: 203
