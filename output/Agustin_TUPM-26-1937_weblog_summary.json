@@ -1,0 +1,20 @@
+{
+    "last_name": "Agustin",
+    "student_id": "TUPM-26-1937",
+    "seed_digit": 7,
+    "id_sum": 28,
+    "records_processed": 1028,
+    "invalid_records": 0,
+    "target_status_class": "5xx",
+    "records_in_target_class": 0,
+    "count_per_status_code_all": {
+        "200": 850,
+        "302": 144,
+        "304": 21,
+        "206": 8,
+        "404": 5
+    },
+    "count_per_status_code_target_class": {},
+    "five_most_requested_urls": [],
+    "filtered_csv_file": "Agustin_TUPM-26-1937_weblog_filtered.csv"
+}

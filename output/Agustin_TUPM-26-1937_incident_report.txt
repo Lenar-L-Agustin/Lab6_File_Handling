@@ -1,0 +1,33 @@
+CYBERSECURITY INCIDENT REPORT
+----------------------------------------
+Last Name: Agustin
+Student ID: TUPM-26-1937
+Target Year: 2022
+Total Records in Dataset: 3000
+Incidents in Target Year: 318
+
+INCIDENT COUNT PER ATTACK TYPE
+  DDoS: 54
+  Malware: 64
+  Man-in-the-Middle: 41
+  Phishing: 57
+  Ransomware: 56
+  SQL Injection: 46
+
+FINANCIAL LOSS (USD MILLIONS)
+  Total: 15870.86
+  Average: 49.91
+  Invalid values skipped: 0
+
+FIVE COSTLIEST INCIDENTS
+  1. Phishing | Japan | 2022 | 98.47
+  2. SQL Injection | USA | 2022 | 98.46
+  3. Phishing | Brazil | 2022 | 98.06
+  4. Phishing | UK | 2022 | 97.56
+  5. Malware | Japan | 2022 | 97.32
+
+OUTPUT FILES
+  Filtered CSV: Agustin_TUPM-26-1937_incidents_filtered.csv
+  JSON Summary: Agustin_TUPM-26-1937_incident_summary.json
+  JSON Backup: Agustin_TUPM-26-1937_incident_summary.json (VERIFIED)
+  Report: Agustin_TUPM-26-1937_incident_report.txt
